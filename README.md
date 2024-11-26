@@ -2,7 +2,7 @@
 **Autor:** Bruno Pereira <br>
 
 ---
-🎯 **Objetivo do projeto:** O intúito deste projeto foi a construção de um pipeline de dados, esta automação efetua a coleta dados dos chats de um grupo do Telegram, faz a Ingestão, ETL, e por fim na aparesentação temos acesso aos dados já transformados e normalizados. As ferramentas utilizadas foram a linguagem Python, assim como o ambiente cloud AWS (S3, Athena, Lambda, etc.)<br>
+🎯 **Objetivo do projeto:** O objetivo deste projeto foi construir um pipeline de dados capaz de coletar informações dos chats de um grupo no Telegram, realizar a ingestão e o processo ETL, e, por fim, apresentar os dados já transformados e normalizados. As ferramentas utilizadas incluem a linguagem Python e o ambiente de cloud computing da AWS, com serviços como S3, Athena, Lambda, entre outros. O projeto está todo organizado em tópicos para facilitar a compreensão, além de imagens e explicações sobre cada tópico, boa leitura!<br>
 
 🔎 **Explicação sobre o Notebook:** Dividi este notebook para melhor compreensão em 5 tópicos:
   
